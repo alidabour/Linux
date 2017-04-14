@@ -244,4 +244,3 @@ As this is by far the biggest project task, it is split in several parts.
 3. *If getting an internal server error, check the Apache error files:  
   1. View the last 20 lines in the error log: 
     `$ sudo tail -20 /var/log/apache2/error.log`
-  2. *If a file like 'g_client_secrets.json' couldn't been found:  
