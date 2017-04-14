@@ -2,6 +2,7 @@
 
 A baseline installation of Ubuntu Linux on a virtual machine to host a Flask web application. This includes the installation of updates, securing the system from a number of attack vectors and installing/configuring web and database servers.
 
+### To test : Replace any ip address with 52.206.155.23
 ### 1- Launch Virtual Machine and SSH into the server
 
 1. Download private keys and write down your public IP address.
